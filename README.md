@@ -6,7 +6,7 @@
   - [The Game of Animal - C++](https://github.com/owenbebebe/AI---The-Game-of-Animal)
   
 - <b>Heuristics for Intractable Problems Projects</b>
-  - [Knapsack - C++](https://github.com/owenbebebe/AI---The-Game-of-Animal)
+  - [Knapsack - C++](https://github.com/owenbebebe/KnapSack)
   
 - <b>Data Mining / Machine Learning Projects</b>
   - [The Game of Animal - C++](https://github.com/owenbebebe/AI---The-Game-of-Animal)
