@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Artificial Intelliegence Projects</b>
+- <b>Artificial Intellegence Projects</b>
   - [The Game of Animal - C++](https://github.com/owenbebebe/AI---The-Game-of-Animal)
   - [Othello Minimax Algorithmn - JavaScript (In - Progress)](https://github.com/owenbebebe/Othello)
   
