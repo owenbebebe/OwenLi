@@ -4,6 +4,7 @@
 
 - <b>Artificial Intelliegence Projects</b>
   - [The Game of Animal - C++](https://github.com/owenbebebe/AI---The-Game-of-Animal)
+  - [Othello Minimax Algorithmn - JavaScript (In - Progress)](https://github.com/owenbebebe/AI---The-Game-of-Animal)
   
 - <b>Heuristics for Intractable Problems Projects</b>
   - [Knapsack - C++](https://github.com/owenbebebe/KnapSack)
