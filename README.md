@@ -4,6 +4,12 @@
 
 - <b>Artificial Intelliegence Projects</b>
   - [The Game of Animal - C++](https://github.com/owenbebebe/AI---The-Game-of-Animal)
+  
+- <b>Heuristic Projects</b>
+  - [Knapsack - C++](https://github.com/owenbebebe/AI---The-Game-of-Animal)
+  
+- <b>Data Mining / Machine Learning Projects Projects</b>
+  - [The Game of Animal - C++](https://github.com/owenbebebe/AI---The-Game-of-Animal)
 
 <h2> 🤳 Connect with me:</h2>
 
