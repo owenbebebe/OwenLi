@@ -5,7 +5,7 @@
 - <b>Artificial Intelliegence Projects</b>
   - [The Game of Animal - C++](https://github.com/owenbebebe/AI---The-Game-of-Animal)
   
-- <b>Heuristic Projects</b>
+- <b>Heuristics for Intractable Problems Projects</b>
   - [Knapsack - C++](https://github.com/owenbebebe/AI---The-Game-of-Animal)
   
 - <b>Data Mining / Machine Learning Projects Projects</b>
