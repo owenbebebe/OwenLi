@@ -1,4 +1,4 @@
-<h1>Hi, I'm Owen Li <br/><a href="https://github.com/joshmadakor1">Software Engineer</a> <a href="https://www.linkedin.com/in/joshmadakor/"></h1>
+<h1>Hi, I'm Owen Li <br/><a href="https://github.com/owenbebebe">Software Engineer</a> <a href="https://www.linkedin.com/in/joshmadakor/"></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
