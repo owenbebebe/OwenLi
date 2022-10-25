@@ -10,7 +10,7 @@
   - [Knapsack - C++](https://github.com/owenbebebe/KnapSack)
   
 - <b>Data Mining / Machine Learning Projects</b>
-  - [The Game of Animal - C++](https://github.com/owenbebebe/AI---The-Game-of-Animal)
+  - [Naive Bayesian Classifier - C++](https://github.com/owenbebebe/Naive-Bayesian-Classifier)
 
 <h2> 🤳 Connect with me:</h2>
 
