@@ -8,6 +8,7 @@
   
 - <b>Heuristics for Intractable Problems Projects</b>
   - [Knapsack - C++](https://github.com/owenbebebe/KnapSack)
+  - [Coloring Graph - C++](https://github.com/owenbebebe/Coloring-Graph)
   
 - <b>Data Mining / Machine Learning Projects</b>
   - [Naive Bayesian Classifier - C++](https://github.com/owenbebebe/Naive-Bayesian-Classifier)
