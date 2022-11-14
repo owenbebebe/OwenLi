@@ -1,6 +1,6 @@
 <h1>Hi, I'm Owen Li <br/><a href="https://github.com/owenbebebe">Software Engineer</a> <a href="https://www.linkedin.com/in/joshmadakor/"></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Engineer Projects:</h2>
 
 - <b>Artificial Intellegence Projects</b>
   - [The Game of Animal - C++](https://github.com/owenbebebe/AI---The-Game-of-Animal)
