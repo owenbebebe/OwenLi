@@ -15,7 +15,7 @@
   - [Naive Bayesian Classifier - C++](https://github.com/owenbebebe/Naive-Bayesian-Classifier)
   
 - <b>Web Developement Projects</b>
-  - [Making API call from Yelp fusion - Python] (https://github.com/owenbebebe/Yelp-API-call-for-businesses)
+  - [Making API call from Yelp fusion - Python](https://github.com/owenbebebe/Yelp-API-call-for-businesses)
 
 <h2> 🤳 Connect with me:</h2>
 
