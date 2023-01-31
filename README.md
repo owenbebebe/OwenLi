@@ -5,8 +5,9 @@
 - <b>Artificial Intellegence / Machine Learning Projects</b>
   - [The Game of Animal - C++](https://github.com/owenbebebe/AI---The-Game-of-Animal)
   - [Othello Minimax Algorithmn - JavaScript](https://github.com/owenbebebe/Othello)
-  - [Wumpus World - Prolog](https://github.com/owenbebebe/Wumpus-World)
   - [Naive Bayesian Classifier - C++](https://github.com/owenbebebe/Naive-Bayesian-Classifier)
+  - [Music Preference Decision Tree & Graph Visualization - Python](https://github.com/owenbebebe/Predicting-music-preference-and-visualization)
+  - [Wumpus World - Prolog](https://github.com/owenbebebe/Wumpus-World)
   
 - <b>Heuristics for Intractable Problems Projects</b>
   - [Knapsack - C++](https://github.com/owenbebebe/KnapSack)
