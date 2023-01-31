@@ -12,6 +12,8 @@
 - <b>Heuristics for Intractable Problems Projects</b>
   - [Knapsack - C++](https://github.com/owenbebebe/KnapSack)
   - [Coloring Graph - C++](https://github.com/owenbebebe/Coloring-Graph)
+  - [Vehicle Routing - C++](https://github.com/owenbebebe/Vehicle-Routing)
+  - [Facility Location - C++](https://github.com/owenbebebe/Facility-Location)
   - [Traveling Salesmana Christofides - Python](https://github.com/owenbebebe/Traveling-Salesman---Christofides-Algorithmn/blob/main/README.md)
   
 - <b>Web Developement Projects</b>
