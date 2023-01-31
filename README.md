@@ -12,7 +12,7 @@
 - <b>Heuristics for Intractable Problems Projects</b>
   - [Knapsack - C++](https://github.com/owenbebebe/KnapSack)
   - [Coloring Graph - C++](https://github.com/owenbebebe/Coloring-Graph)
-  - [Traveling Salesmana Christofides - C++](https://github.com/owenbebebe/Traveling-Salesman---Christofides-Algorithmn/blob/main/README.md)
+  - [Traveling Salesmana Christofides - Python](https://github.com/owenbebebe/Traveling-Salesman---Christofides-Algorithmn/blob/main/README.md)
   
 - <b>Web Developement Projects</b>
   - [Making API call from Yelp fusion - Python](https://github.com/owenbebebe/Yelp-API-call-for-businesses)
