@@ -2,17 +2,15 @@
 
 <h2>👨‍💻 Software Engineer Projects:</h2>
 
-- <b>Artificial Intellegence Projects</b>
+- <b>Artificial Intellegence / Machine Learning Projects</b>
   - [The Game of Animal - C++](https://github.com/owenbebebe/AI---The-Game-of-Animal)
   - [Othello Minimax Algorithmn - JavaScript](https://github.com/owenbebebe/Othello)
   - [Wumpus World - Prolog](https://github.com/owenbebebe/Wumpus-World)
+  - [Naive Bayesian Classifier - C++](https://github.com/owenbebebe/Naive-Bayesian-Classifier)
   
 - <b>Heuristics for Intractable Problems Projects</b>
   - [Knapsack - C++](https://github.com/owenbebebe/KnapSack)
   - [Coloring Graph - C++](https://github.com/owenbebebe/Coloring-Graph)
-  
-- <b>Data Mining / Machine Learning Projects</b>
-  - [Naive Bayesian Classifier - C++](https://github.com/owenbebebe/Naive-Bayesian-Classifier)
   
 - <b>Web Developement Projects</b>
   - [Making API call from Yelp fusion - Python](https://github.com/owenbebebe/Yelp-API-call-for-businesses)
