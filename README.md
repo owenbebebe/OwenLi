@@ -4,7 +4,7 @@
 
 - <b>Artificial Intellegence Projects</b>
   - [The Game of Animal - C++](https://github.com/owenbebebe/AI---The-Game-of-Animal)
-  - [Othello Minimax Algorithmn - JavaScript (In - Progress)](https://github.com/owenbebebe/Othello)
+  - [Othello Minimax Algorithmn - JavaScript](https://github.com/owenbebebe/Othello)
   - [Wumpus World - Prolog](https://github.com/owenbebebe/Wumpus-World)
   
 - <b>Heuristics for Intractable Problems Projects</b>
