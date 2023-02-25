@@ -20,6 +20,7 @@
   - [Making API call from Yelp fusion - Python](https://github.com/owenbebebe/Yelp-API-call-for-businesses)
   - [WebScraping Getting question list from Stackoverflow.com - Python](https://github.com/owenbebebe/Web-Scraping-Stack-Overflow-Questions-List-)
   - [Django website with database connection - Python](https://github.com/owenbebebe/Django-Vividly-database-webapp)
+  - [The Wumpus World - 2d Javascript Game](https://github.com/owenbebebe/wumpusworld.github.io)
 
 <h2> 🤳 Connect with me:</h2>
 
